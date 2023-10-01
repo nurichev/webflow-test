@@ -1,2 +1,2 @@
-const message = 'it works!';
+const message = 'something changed';
 alert(message);
